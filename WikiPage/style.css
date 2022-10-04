@@ -1,5 +1,5 @@
 h1{
-    text-align: center;
+    text-align: left;
     color: darkgoldenrod;
 }
 p{
@@ -16,4 +16,7 @@ ul{
 }
 ol{
     font-size: 18px;
+}
+body{
+    background-color: cornsilk;
 }
