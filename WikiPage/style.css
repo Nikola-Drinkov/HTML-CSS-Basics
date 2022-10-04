@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    color: darkgoldenrod;
+}
+p{
+    font-family: "Comic Sans MS";
+    color: darkslateblue;
+    font-size: 23px;
+}
+p1.brownParagraph{
+    color: saddlebrown;
+    font-size: 22px;
+}
+ul{
+    font-size: 18px;
+}
+ol{
+    font-size: 18px;
+}
